@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variables de entorno (Seguridad)
+.env
+
+# Archivos del Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.swp
+*.swo
